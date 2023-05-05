@@ -1,0 +1,66 @@
+h1{
+    color:rgb(17, 84, 228);
+    text-align: center;
+}
+
+.textored{ /* aqui é o modo que usamos classes*/ 
+    color: darkblue;
+}
+
+#azul{ /* é o modo de indentificar ID*/ 
+    color:
+    rgb(48, 126, 48)
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+#color{
+    color: rgb(228, 157, 157);
+}
+
+#div{
+    background-color: rgb(255, 255, 255);
+}
+#div2{
+    background-color: rgb(28, 119, 180);
+    display: inline-block;
+    width: 30%
+}
+.img-bn{
+    width: 30%;
+    display: inline-block;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul{
+    text-decoration: none;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+nav a:visited {
+    text-decoration: none;
+}
+nav a:link{
+    color: aliceblue;
+}
+nav {
+    position: absolute;
+    top: 100 px;
+    right: 30 px;
+    background-color: azure;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px
+}
+
+footer{
+    text-align: center;
+}
+.rodape{
+    color: blueviolet;
+    margin: 20px;
+}
